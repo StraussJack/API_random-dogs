@@ -16,6 +16,10 @@ body {
     align-items: center;
 }
 
+.container__title {
+    font-weight: 600;
+}
+
 .img {
     height: 100%;
     width: 100%;
